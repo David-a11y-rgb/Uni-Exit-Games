@@ -88,6 +88,17 @@ const EXIT_GAMES = [
     kurzbeschreibung:
       'Messwerte analysieren, Funktionsgraphen lesen und den Notfall-Algorithmus stoppen.',
     link: 'https://example.org/exit-game/forschung-funktionen'
+  },
+  {
+    id: 'eg-09',
+    titel: 'Wo ist Fredo?',
+    bild: 'https://images.unsplash.com/photo-1588072432904-843af37f03ed?auto=format&fit=crop&w=1600&q=80',
+    setting: 'Klassenraum',
+    schulform: 'Primar',
+    stoffgebiet: 'Bündel und entbündeln',
+    kurzbeschreibung:
+      'Im Klassenraum führen Aufgaben zum Bündeln und Entbündeln Schritt für Schritt zu Fredo.',
+    link: 'https://view.genially.com/69afe36c109c160943513270'
   }
 ];
 
